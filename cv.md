@@ -5,10 +5,6 @@
 5.  HTML code example
 
     ...
-    <div class="contact">
-      <h3 class="contact-heading">GET IN TOUCH</h3>
-      <div class="line"></div>
-      <p class="contact-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> 
    
         <form action="#" id="form">
           <div class="form-main-data">
@@ -31,7 +27,6 @@
                 <input type="submit" value="SEND MESSAGE" />
               </div>
         </form>
-    </div>
     ...
 
 6.  Coding tests, team work
