@@ -1,0 +1,65 @@
+.wrapper {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    max-width: 1024px;
+    background-color: lightcyan;
+}
+
+header{
+    width: 96%;
+    margin: 0 auto; 
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+    display: block;
+    width: 45%;
+}
+
+h1{ 
+    padding: 10px;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+img{
+    width:100%;
+    height: auto;
+}
+
+li{
+    font-size: 20px;
+    margin: 10px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.contact{
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.contact-skype{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+footer{
+    width: 94%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
